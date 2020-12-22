@@ -20,6 +20,7 @@ MySQL Database is used as a standard database for this project.
 Execute the database schema before running the application.
 
 <br/>
+<br/>
 
 You need to set up .env file in this project for the database credentials.
 <br/>

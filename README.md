@@ -1,6 +1,12 @@
 # shop-be
 Database for Shop Management System
 
+
+According to the instruction of the HR Manager, I need to write unit testing which cover 60% of the codes.
+<br/>
+Junit testing does not work in this project because I have not implemented it.
+I am currently still learning it.
+
 ### Postman Collection and API Endpoint
 **Postman collection can be found in `src/main/resources/Shop.postman_collection.json`**
 <br/>

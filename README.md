@@ -17,8 +17,23 @@ The database schema can be found in `src/main/resources/shop-schema.sql`
 <br/>
 MySQL Database is used as a standard database for this project.
 <br/>
+Execute the database schema before running the application.
 
 <br/>
+
+You need to set up .env file in this project for the database credentials.
+<br/>
+Please create the file with the extension `.credential.env`
+<br/>
+<br/>
+In the file, please write this.
+```
+DB_HOST=
+DB_PORT=
+DB_NAME=shop
+DB_USERNAME=
+DB_PASSWORD=
+```
 
 **Before exporting the schema, please execute this query first**
 `create schema shop;`
